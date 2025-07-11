@@ -1,6 +1,6 @@
-# 👨‍🔬 Xiangfei | Pharmacy Professor & Computational Chemist
+# 👨‍🔬 Pei Syang | Pharmacy Professor & Computational Chemist
 
-Hi there! I'm **Xiangfei**, a pharmacy professor on a mission to develop life-saving drugs and **explore the future of computational chemistry** 💊💻. When I’m not in the lab or teaching, you’ll find me skateboarding with my daughter 🛹, flying drones 🚁, or digging into the **quirky side of meme culture** 🤖.
+Hi there! I'm Syang, a pharmacy professor on a mission to develop life-saving drugs and **explore the future of computational chemistry** 💊💻. When I’m not in the lab or teaching, you’ll find me skateboarding with my daughter 🛹, flying drones 🚁, or digging into the **quirky side of meme culture** 🤖.
 
 ---
 
@@ -10,7 +10,7 @@ Techs that I’ve used at least once (and often fell down the rabbit hole):
 
 - 🧬 Schrödinger Suite (Maestro, Glide, LigPrep)
 - 🧪 RDKit | Open Babel | MarvinSketch
-- 🔬 GROMACS + CP2K (QM/MM)
+- 🔬 Cross coupling | MPLC purification | NMR | LCMS 
 - 🧠 AI for Drug Design (Rockville, Boltz-2, DeepPurpose)
 - 🧰 Python | SLURM | Bash | Jupyter
 - 🌐 SciFinder | PubChem | PDB | ChEMBL
@@ -22,8 +22,8 @@ Techs that I’ve used at least once (and often fell down the rabbit hole):
 - 🤖 **AI-Powered QSAR Modeling** for novel kinase inhibitors
 - 🔗 **PROTAC Design** with first-in-class Targets
 - 🧩 **Multi-target Docking & Virtual Screening**
-- 🔬 **Small/Tiny Object Detection in Bio-Imaging**
-- 🌌 **EO/IR Sensor Fusion Object Detection**
+- 🔬 **Drug hunter in Chemistry space**
+- 🌌 **Biotin probe synthesis for target protein identification**
 - 📍 **Visual Grounding for Molecular Structures**
 
 ---
@@ -48,7 +48,8 @@ Techs that I’ve used at least once (and often fell down the rabbit hole):
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/xiang-fei-27516816/)
-- *(Add Zhihu and Google Scholar links here if you want!)*
+- [zhihu](https://www.zhihu.com/column/c_1013788227467001856)
+- [Google Scholar](https://scholar.google.com/citations?user=3V9mEKAAAAAJ&hl=en&oi=ao)
 
 ---
 
